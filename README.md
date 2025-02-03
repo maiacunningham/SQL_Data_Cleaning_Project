@@ -1,7 +1,7 @@
-# SQL Data Cleaning Project
-## Cleaning Public Layoff Dataset (Kaggle)
+# SQL Data Cleaning & Exploratory Analysis Project
+## Cleaning Public Layoff Dataset (Kaggle): //www.kaggle.com/datasets/swaptr/layoffs-2022
 ### Purpose of Project 
-- Clean and prepare the dataset for Analysis using SQL 
+- Clean and prepare the dataset for Analysis using SQL
 
 
 ## Part 1
@@ -23,7 +23,3 @@
 - What industry is least affected by layoffs? 
 - How does this vary by country?
 - Does funding influence if layoffs increase or decrease? 
-
-
-## Reference 
-Data can be found here: https://www.kaggle.com/datasets/swaptr/layoffs-2022
